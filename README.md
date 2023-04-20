@@ -1,4 +1,4 @@
-#AiMovies
+<h1>AiMovies</h1>
 
 AiMovies is a simple movie application built using React. The application displays a list of popular movies and allows the user to search for a specific movie using The Movie Database (TMDb) API. The application displays the movie poster, title, release date, and a short overview for each movie.
 
@@ -11,10 +11,16 @@ Table of Contents
 6. License
 
 
-##Demo
-A live demo of the application can be accessed at https://aimovies.netlify.app.
+<h2>Demo</h2>
+A live demo of the application can be accessed at https://aimovies.netlify.app. 
+ </br>
+  </br>
 
-##Installation
+![AiMovies Home](https://user-images.githubusercontent.com/92534028/233459480-df622964-f0e9-4021-a7ab-ab0f52db149a.jpg)
+![search Movie](https://user-images.githubusercontent.com/92534028/233459490-84881b61-3220-46fb-9e68-506f90a4b3a4.jpg)
+![Movie Info](https://user-images.githubusercontent.com/92534028/233459493-3ac53b5a-5c76-4ee5-9606-80a5e23439b4.jpg)
+
+<h2>Installation</h2>
 To install AiMovies on your local machine, follow these steps:
 
 Clone the repository using the following command:
@@ -26,7 +32,7 @@ git clone https://github.com/ashishingle29/AiMovies.git
 cd AiMovies
 
 ```
-##Usage
+<h2>Usage</h2>
 Install the required dependencies:
 
 ```bash
@@ -42,7 +48,7 @@ To search for a specific movie, enter the movie title in the search bar and clic
 
 To view the details of a specific movie, click on the movie card in the search results or the popular movies list.
 
-##Technologies Used
+<h2>Technologies Used</h2>
 
 AiMovies was built using the following technologies:
 
@@ -50,7 +56,7 @@ AiMovies was built using the following technologies:
 2. The Movie Database (TMDb) API
 3. Styled Components
 
-##Contributing
+<h2>Contributing</h2>
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository
@@ -58,11 +64,6 @@ Create a new branch for your feature or bug fix
 Make your changes and commit them
 Push your changes to your fork
 Submit a pull request
-
-
-##License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 
 Thanks for reading!
 
